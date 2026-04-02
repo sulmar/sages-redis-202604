@@ -3,7 +3,7 @@
 
 ## Opis
 
-
+Interaktywna wizualizacja geohash: [Geohash Explorer](https://geohash.softeng.co/t5f5) (przykład: `t5f5`).
 
 ## Zastosowania
 
